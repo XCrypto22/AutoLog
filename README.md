@@ -1,5 +1,5 @@
 # AutoLog
-GUI script to automate your browser and login to your favourite sites with justone click
+GUI script to automate your browser and login to your favourite sites with just one click
 
 # How to use
 
